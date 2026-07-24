@@ -5604,7 +5604,6 @@ let data = encodeURIComponent(
 
 **调用例子:** `/rep/ugc/user/collect-vip?activityId=5001`
 
-<<<<<<<<< Temporary merge branch 1
 ### 云小编 - 剩余抽奖次数
 
 说明: 登录后调用此接口, 获取今日云小编抽奖剩余次数
@@ -5634,7 +5633,7 @@ let data = encodeURIComponent(
 **接口地址:** `/middle/play/do/lottery`
 
 **调用例子:** `/middle/play/do/lottery?activityId=6501202&drawCount=1`
-=========
+
 ### 发送/删除评论
 
 说明 : 调用此接口,可发送评论或者删除评论
